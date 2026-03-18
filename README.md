@@ -130,7 +130,7 @@ Geldium Finance observed an increase in credit card delinquency and wants a more
 - [Final Slide Deck (Task 4)](./Geldium_AI_Collections_System_Vrushali.pptx)
 
 ### Certificate
-![Certificate](./Certificate.png)
+![Certificate](./tata_GenAi_Certificate.jpeg)
 
 ## 🤖 GenAI Usage (How I used it)
 
