@@ -1,6 +1,6 @@
 # Tata x Forage – GenAI Powered Data Analytics (Delinquency Risk & Collections Strategy)
 
-This repository contains my work for the **Tata iQ x Forage “GenAI Powered Data Analytics” Job Simulation** (Certificate of Completion: **Feb 23, 2026**).
+This repository contains my work for the **Tata iQ x Forage “GenAI Powered Data Analytics” Job Simulation** (Certificate of Completion: **Feb 17, 2026**).
 
 The simulation focuses on **financial services analytics**: using structured analysis + GenAI support to understand **credit card delinquency risk**, propose an **interpretable predictive modeling approach**, and translate insights into **stakeholder-ready recommendations** with **Responsible AI guardrails**.
 
