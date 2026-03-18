@@ -127,7 +127,7 @@ Geldium Finance observed an increase in credit card delinquency and wants a more
 - [EDA Summary Report (Task 1)](./EDA_Report.pdf)
 - [Predictive Model Plan (Task 2)](./Model_Plan.pdf)
 - [Business Summary Report (Task 3)](./Business_Report.pdf)
-- [Final Slide Deck (Task 4)](./Presentation.pptx)
+- [Final Slide Deck (Task 4)](./Geldium_AI_Collections_System_Vrushali.pptx)
 
 ### Certificate
 ![Certificate](./Certificate.png)
